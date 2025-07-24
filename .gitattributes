@@ -35,6 +35,5 @@
 *.upipelinecache filter=lfs diff=lfs merge=lfs -text
 *.ddc filter=lfs diff=lfs merge=lfs -text
 # Add any other large binary files specific to your project
-
 *.bat eol=crlf
 *.sh eol=lf
